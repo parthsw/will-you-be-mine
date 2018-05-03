@@ -1,3 +1,9 @@
 # will-you-be-mine
 
-Code repository for the website http://www.willyoubemine.in/ which has a countup-timer on it's landing page. It's a simplistic and responsive layout made using css grid and flexbox.
+Minimalist counter landing page created using css grid and flexbox. The same design is available on http://www.willyoubemine.in/
+
+Feel free to fork, clone, play around and make this your own.
+
+# License
+
+MIT © Parth Parmar
